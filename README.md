@@ -18,3 +18,12 @@ sudo install -Dm755 colours /usr/local/bin
 
 - Linux
   - Gentoo linux: [app-misc/colours::dinolay](https://ari-web.xyz/gentooatom/app-misc/colours)
+
+# Customisation
+
+Set the `T` environment variable to customise the sample text, it's `gYw` by default,
+for example:
+
+```bash
+T=':)' colours
+```
