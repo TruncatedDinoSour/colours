@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/colours>
 # Colours
 
 > A (fetch?) tool to display the colours of your terminal emulator written in bash
